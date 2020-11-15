@@ -1,0 +1,9 @@
+.pageIndex { display: block; }
+.pageIndex .title h2 {
+  display: block;
+  font-size: 20px;
+}
+.pageIndex .title p {
+  font-size: 12px;
+  color: rgba(0,0,0,.4)
+}
